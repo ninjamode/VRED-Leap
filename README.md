@@ -2,7 +2,7 @@
 
 Requires at least VRED 2018.4
 
-
+![VRED Leap plugin isualization](https://github.com/ninjamode/VRED-Leap/raw/master/animation.gif)
 
 
 
