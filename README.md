@@ -17,6 +17,10 @@ Requires at least VRED 2018.4
 
 This plugin does not try to read joint rotation, only position. Might cause instabilities (not compiled with VS 2015 for VRED).
 
+## Demo
+
+Please see the demo scene for Leap and Collider usage in the releases tab (release 1.0, _VRED_Leap_Motion_Demo.vpb_).
+
 ## Installation
 
 - Install Leap Motion Orion drivers
